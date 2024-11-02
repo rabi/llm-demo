@@ -1,4 +1,4 @@
-FROM ubuntu:18.04
+FROM fedora:40
 
 WORKDIR /home/
 
